@@ -86,7 +86,7 @@ Note: SinBERT-small underperformed the baseline. Analysis and failure discussion
 
 ### 1. Clone the repository
 ```bash
-git clone https:///github.com/Devindihansini/singlish-hate-speech-detection.git
+git clone https://github.com/Devindihansini/singlish_hate_speech_detection.git
 cd singlish-hate-speech-detection
 ```
 
